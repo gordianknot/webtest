@@ -1,0 +1,2 @@
+cd ~/webtest
+git push -u origin master

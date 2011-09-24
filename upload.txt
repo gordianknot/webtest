@@ -1,0 +1,4 @@
+cd ~/webtest
+git add .
+(git remote add origin git@github.com:gordianknot/webtest.git)
+git push -u origin master
